@@ -6,7 +6,7 @@
 
 Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios e pronto para enfrentar as mudanças.
 
-
+  "Todos os problemas se tornam infantis depois de explicados."
 
 - Sou aluno na Universidade do Estado de Santa Catarina (UDESC) estou cursando Bacharelado em Sistemas de Informação na [UDESC](https://www.udesc.br/ceplan).
 - Sou aluno na  [<img width="60" src = "https://blueedtech.com.br/wp-content/themes/blue/dist/images/logo-blue-croped.gif">](https://blueedtech.com.br/).
