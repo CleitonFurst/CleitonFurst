@@ -15,6 +15,6 @@ Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios
 ## Entre em contato comigo 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/cleiton-f%C3%BCrst-b2b799150/)
-[![Gmail Badge](<Danki Code>)](mailto:furstcleiton@gmail.com)
+[![Gmail Badge][![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:furstcleiton@gmail.com)
 
 - Obrigado por me visitar!
