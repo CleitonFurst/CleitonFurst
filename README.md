@@ -14,9 +14,6 @@ Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios
 
 ## Entre em contato comigo 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/cleiton-f%C3%BCrst-b2b799150/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:furstcleiton@gmail.com)
-
 
 
  <div>
@@ -35,7 +32,9 @@ Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios
   <img align="center" alt="PostgreeSQL" height="30" width="40" src="https://img.icons8.com/color/48/000000/postgreesql.png">
   <img align="center" alt="PostgreeSQL" height="30" width="40" src="https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png">
  
-
+<a href="https://discordapp.com/users/385869185198063626" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:furstcleiton@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/cleiton-f%C3%BCrst-b2b799150/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
   
