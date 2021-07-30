@@ -12,7 +12,7 @@ Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios
 - Sou aluno na  [<img width="60" src = "https://blueedtech.com.br/wp-content/themes/blue/dist/images/logo-blue-croped.gif">](https://blueedtech.com.br/).
 - Sou aluno na  [Danki Code](https://cursos.dankicode.com/).
 
-## Entre em contato comigo 
+
 
 
 
@@ -32,6 +32,7 @@ Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios
   <img align="center" alt="PostgreeSQL" height="30" width="40" src="https://img.icons8.com/color/48/000000/postgreesql.png">
   <img align="center" alt="PostgreeSQL" height="30" width="40" src="https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png">
  
+  ## Entre em contato comigo 
 <a href="https://discordapp.com/users/385869185198063626" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:furstcleiton@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cleiton-f%C3%BCrst-b2b799150/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
