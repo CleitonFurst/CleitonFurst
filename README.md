@@ -42,9 +42,6 @@ Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios
   
   <div> 
 
- 
-
- 
   ![Snake animation](https://github.com/CleitonFurst/CleitonFurst/blob/output/github-contribution-grid-snake.svg)
  
 </div>
